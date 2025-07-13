@@ -1,0 +1,14 @@
+# python, pyenv, venv ignore:
+*.egg-info/
+__pycache__
+.python-version
+env/
+
+# buildout artifacts and created directories:
+.installed.cfg
+.mr.developer.cfg
+bin/
+downloads/
+eggs/
+parts/
+var/
